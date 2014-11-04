@@ -1,0 +1,9 @@
+* What does the following error message tell us? *
+
+SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
+    from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+
+This message tells us within the second irb command, a block of code was opened
+with a curly brace, but was closed with a parenthesis or was opened and not
+closed at all. Matching pairs of brackets, braces, parentheses must be used when
+creating blocks of code.

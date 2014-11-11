@@ -1,0 +1,2 @@
+Exception handling supplies a 'default' in the case of an error and it prevents the program from completely
+stopping execution at the point of the error.

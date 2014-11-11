@@ -1,0 +1,3 @@
+The main difference between an array and a hash is an array uses an ordered index and a hash uses key/value pairs.
+When order is important, an array should be used, although since Ruby 1.9, hashes maintain the order of elements within.
+When you need key/value pairs, a hash is best used.

@@ -8,6 +8,7 @@ def lab_check(word)
   end
 end
 
+
 lab_check('laboratory')
 lab_check('experiment')
 lab_check('Pans Labyrinth')

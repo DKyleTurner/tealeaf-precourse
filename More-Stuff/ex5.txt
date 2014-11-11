@@ -1,0 +1,2 @@
+The error is a result of passing the method a block when it is expecting the parameter block, not an actual block.
+To fix this, a '@' needs to precede the parameter 'block'.
